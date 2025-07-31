@@ -18,7 +18,7 @@ export default function ChatSupport() {
         </div>
       )}
 
-      {/* Box chat (dùng absolute để trượt không đẩy box khác) */}
+      {/* Box chat */}
       <div
         className={`absolute bottom-20 right-0 w-[340px] bg-white shadow-xl rounded-2xl overflow-hidden border border-gray-200 transform transition-all duration-300 ${
           isOpen
