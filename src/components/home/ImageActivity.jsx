@@ -31,12 +31,12 @@ export default function ImageActivity() {
     },
     {
       img: activity3,
-      col: "col-span-2",
+      col: "col-span-3",
       delay: 350,
     },
     {
       img: activity4,
-      col: "col-span-3",
+      col: "col-span-2",
       delay: 500,
     },
     {
